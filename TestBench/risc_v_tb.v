@@ -23,3 +23,4 @@ $monitor("%t | %h | %h | %h | %h | %h | %h | %h |   %b   |   %b",$time, pc, inst
 end
 endmodule
 
+
